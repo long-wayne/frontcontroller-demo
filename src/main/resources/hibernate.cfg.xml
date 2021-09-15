@@ -9,7 +9,7 @@
         <!-- Connection settings -->
         <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
         <property name="hibernate.connection.url">jdbc:postgresql://long-db.cmufimmhwlm2.us-west-1.rds.amazonaws.com:5432/postgres</property>
-        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.connection.username">lethanglong</property>
         <property name="hibernate.connection.password">ThuyUyenVy0411$</property>
   
         <!-- SQL dialect -->
